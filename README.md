@@ -1,3 +1,3 @@
 # hello-world
 Testing
-I enjoy developed new things related with IoT
+I enjoy developing new things related with IoT
